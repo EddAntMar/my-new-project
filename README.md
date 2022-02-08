@@ -1,4 +1,7 @@
 # my-new-project
-Mi primer repositorio de pruebas.
+
+Mis cambios generados a partir del primer repositorio de pruebas.
+
 Autor: Edgar Antunez.
-Fecha: 07/02/22
+
+Fecha: 07/02/2022
